@@ -1,0 +1,15 @@
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\clock_in_out.deps.json
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\clock_in_out.runtimeconfig.json
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\clock_in_out.runtimeconfig.dev.json
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\clock_in_out.dll
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.csprojAssemblyReference.cache
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.csproj.CoreCompileInputs.cache
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.AssemblyInfoInputs.cache
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.AssemblyInfo.cs
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\clock_in_out.pdb
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.dll
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\obj\Debug\netcoreapp2.2\clock_in_out.pdb
+C:\projetos\clock_in_out\clock_in_out\clock_in_out\bin\Debug\netcoreapp2.2\chromedriver.exe
