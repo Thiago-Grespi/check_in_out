@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\clock_in_out\\clock_in_out\\clock_in_out\\clock_in_out.csproj": {}
+    "C:\\clock_in_out\\clock_in_out.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\clock_in_out\\clock_in_out\\clock_in_out\\clock_in_out.csproj": {
+    "C:\\clock_in_out\\clock_in_out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\clock_in_out\\clock_in_out\\clock_in_out\\clock_in_out.csproj",
+        "projectUniqueName": "C:\\clock_in_out\\clock_in_out.csproj",
         "projectName": "clock_in_out",
-        "projectPath": "C:\\projetos\\clock_in_out\\clock_in_out\\clock_in_out\\clock_in_out.csproj",
+        "projectPath": "C:\\clock_in_out\\clock_in_out.csproj",
         "packagesPath": "C:\\Users\\ThiagoGrespiGoulart\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\clock_in_out\\clock_in_out\\clock_in_out\\obj\\",
+        "outputPath": "C:\\clock_in_out\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
